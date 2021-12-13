@@ -1,2 +1,0 @@
-[requires]
-hello/0.1@user/testing
